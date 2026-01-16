@@ -1,5 +1,6 @@
-# GoPro Video Merger with NVENC
-
+# GoPro Video Merger with NVENC and Each video file is re-encoded separately
+convert.py ->  re-encoded separately
+merge.py -> Merger
 A powerful Python script to automatically merge GoPro footage in chronological order using NVIDIA GPU hardware acceleration (NVENC) for fast, high-quality video encoding.
 
 ## 🎯 Purpose
